@@ -10,5 +10,5 @@ My professional experience and wide knowledge of mathematics, statistics, progra
 
 #### Social media 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in-blue)](www.linkedin.com/in/santiago-collazo-7b3a82191)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in-blue)](https://www.linkedin.com/in/santiago-collazo-7b3a82191/)
 [![Cosmology group](https://img.shields.io/badge/Research%20group-white)](http://cosmologia.fcaglp.unlp.edu.ar/)

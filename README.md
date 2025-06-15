@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hello, I'm Santiago!
 
-<!--
-**Santiq22/Santiq22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me 🔭
 
-Here are some ideas to get you started:
+I am a scientist who strongly loves to study and understand nature, with a big enthusiasm for data science. I have an MSc in Astronomy, and nowadays, I am pursuing a PhD in Astrophysics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Background 💻
+
+My professional experience and wide knowledge of mathematics, statistics, programming, and data science has allowed me to develop myself in researching dark matter in astrophysics, influence and contribute in international collaborations, engineer open-source codes, perform different numerical analyses, and create state-of-the-art machine learning solutions with strong potential for application to real-world problems to bolster, optimize, and improve operations.
+
+#### Social media 🌐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in-blue)](www.linkedin.com/in/santiago-collazo-7b3a82191)
+[![Cosmology group](https://img.shields.io/badge/Research%20group-white)](http://cosmologia.fcaglp.unlp.edu.ar/)
